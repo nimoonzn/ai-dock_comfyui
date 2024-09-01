@@ -43,8 +43,6 @@ NODES=(
     "https://github.com/Acly/comfyui-tooling-nodes"
     "https://github.com/fssorc/ComfyUI_pose_inter"
     "https://github.com/jags111/efficiency-nodes-comfyui"
-    "https://github.com/twri/sdxl_prompt_styler"
-
 )
 
 CHECKPOINT_MODELS=(

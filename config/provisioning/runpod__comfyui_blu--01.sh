@@ -47,6 +47,7 @@ NODES=(
     "https://github.com/pythongosssss/ComfyUI-Custom-Scripts"
     "https://github.com/Fannovel16/comfyui_controlnet_aux"
     "https://github.com/KoreTeknology/ComfyUI-Universal-Styler"
+    "https://github.com/chrisgoringe/cg-use-everywhere"
 )
 
 CHECKPOINT_MODELS=(

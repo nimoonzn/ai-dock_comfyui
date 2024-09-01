@@ -32,7 +32,7 @@ NODES=(
     "https://github.com/ZHO-ZHO-ZHO/ComfyUI-Text_Image-Composite"
     "https://github.com/Suzie1/ComfyUI_Comfyroll_CustomNodes"
     "https://github.com/cubiq/ComfyUI_FaceAnalysis"
-    "https://github.com/cubiq/ComfyUI_IPAdapter_plus"
+    "https://github.com/chflame163/ComfyUI_IPAdapter_plus_V2"
     "https://github.com/cubiq/ComfyUI_InstantID"
     "https://github.com/chflame163/ComfyUI_LayerStyle"
     "https://github.com/cubiq/ComfyUI_essentials"
